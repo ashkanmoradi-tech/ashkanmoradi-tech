@@ -1,16 +1,53 @@
-## Hi there 👋
+<div dir="rtl">
 
-<!--
-**ashkanmoradi-tech/ashkanmoradi-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 سلام، من اشکان مرادی هستم
 
-Here are some ideas to get you started:
+💻 توسعه‌دهنده وب با تخصص در **Python**، **C#**، **ASP.NET** و **.NET Core**  
+🌐 آشنا با **HTML**, **CSS**, **JavaScript** و علاقه‌مند به ساخت اپلیکیشن‌های مقیاس‌پذیر و کاربرپسند
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 مهارت‌ها
+- زبان‌ها: Python, C#, JavaScript  
+- تکنولوژی‌های وب: HTML, CSS, ASP.NET, .NET Core  
+- ابزارها: Git, GitHub, VS Code, Visual Studio  
+- علایق: توسعه بک‌اند، معماری تمیز، طراحی رابط کاربری
+
+## 🚀 پروژه‌ها
+برای مشاهده پروژه‌های من به گیت‌هاب مراجعه کنید:  
+🔗 [github.com/ashkanmoradi-tech](https://github.com/ashkanmoradi-tech)
+
+## 🌐 وب‌سایت شخصی
+🔗 [ashkanmoradi.ir](http://www.ashkanmoradi.ir/)
+
+## 📫 راه ارتباطی
+- 📧 ایمیل: ashkanmoradi.tech@gmail.com  
+- 💼 لینکدین:
+
+</div>
+
+---
+
+## 👋 Hi, I'm Ashkan Moradi
+
+💻 I'm a web developer with expertise in **Python**, **C#**, **ASP.NET**, and **.NET Core**  
+🌐 I also work with **HTML**, **CSS**, and **JavaScript** to build scalable and user-friendly web applications
+
+## 🧰 Tech Stack
+- **Languages:** Python, C#, JavaScript  
+- **Web Technologies:** HTML, CSS, ASP.NET, .NET Core  
+- **Tools:** Git, GitHub, VS Code, Visual Studio  
+- **Interests:** Backend development, clean architecture, UI/UX
+
+## 🚀 Projects
+Check out my GitHub for recent work:  
+🔗 [github.com/ashkanmoradi-tech](https://github.com/ashkanmoradi-tech)
+
+## 🌐 Personal Website
+🔗 [ashkanmoradi.ir](http://www.ashkanmoradi.ir/)
+
+## 📫 Contact Me
+- 📧 Email: ashkanmoradi.tech@gmail.com  
+- 💼 LinkedIn: 
+
+---
+
+Thanks for visiting my profile! I'm always open to new collaborations and exciting projects.
