@@ -20,7 +20,7 @@
 
 ## 📫 راه ارتباطی
 - 📧 ایمیل: ashkanmoradi.tech@gmail.com  
-- 💼 لینکدین:
+- 💼 لینکدین: *(در حال ساخت)*
 
 </div>
 
@@ -46,7 +46,7 @@ Check out my GitHub for recent work:
 
 ## 📫 Contact Me
 - 📧 Email: ashkanmoradi.tech@gmail.com  
-- 💼 LinkedIn: 
+- 💼 LinkedIn: *(coming soon)*
 
 ---
 
