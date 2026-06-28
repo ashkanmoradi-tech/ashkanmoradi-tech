@@ -20,7 +20,7 @@
 
 ## 📫 راه ارتباطی
 - 📧 ایمیل: ashkanmoradi.tech@gmail.com  
-- 💼 لینکدین: *(در حال ساخت)*
+- 💼 لینکدین: www.linkedin.com/in/ashkanmoradi
 
 </div>
 
